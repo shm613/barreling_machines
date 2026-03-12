@@ -1,0 +1,12 @@
+{
+    "name": "barreling_machines",
+    "version": "0.1.1",
+    "title": "Barreling Machines",
+    "author": "Talandar",
+    "dependencies": [
+        "base >= 2.0",
+        "? diesel_machines"
+    ],
+    "description": "Adds barreling machines with different stats and power sources",
+    "factorio_version": "2.0"
+}
