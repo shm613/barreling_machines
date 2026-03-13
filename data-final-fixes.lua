@@ -15,5 +15,17 @@ for name, recipe in pairs(data.raw.recipe) do
 	end
 end
 if data.raw["recipe"]["titanium-barrel"] ~= nil then
-	data.raw.recipe["titanium-barrel"].additional_categories = {}
+	data.raw["recipe"]["titanium-barrel"].additional_categories = {}
+end
+if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
+	data.raw["recipe"]["cargo-crate-barrel"].additional_categories = {}
+end
+if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
+	data.raw["recipe"]["cargo-crate-titanium-barrel"].additional_categories = {}
+end
+if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
+	data.raw["recipe"]["unpack-cargo-crate-barrel"].additional_categories = {}
+end
+if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
+	data.raw["recipe"]["unpack-cargo-crate-titanium-barrel"].additional_categories = {}
 end
