@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.6
+Date: 2026-04-19
+  Bugfixes:
+    - fixed crash caused by not detecting if titanim barrels are present before attempting to 
+      add them barreling category
+---------------------------------------------------------------------------------------------------
 Version: 0.1.5
 Date: 2026-04-07
   Bugfixes:

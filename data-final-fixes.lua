@@ -21,11 +21,11 @@ if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
 	data.raw["recipe"]["cargo-crate-barrel"].additional_categories = {}
 end
 if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
-	data.raw["recipe"]["cargo-crate-titanium-barrel"].additional_categories = {}
-end
-if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
 	data.raw["recipe"]["unpack-cargo-crate-barrel"].additional_categories = {}
 end
-if data.raw["recipe"]["cargo-crate-barrel"] ~= nil then
+if data.raw["recipe"]["cargo-crate-titanium-barrel"] ~= nil then
+	data.raw["recipe"]["cargo-crate-titanium-barrel"].additional_categories = {}
+end
+if data.raw["recipe"]["cargo-crate-titanium-barrel"] ~= nil then
 	data.raw["recipe"]["unpack-cargo-crate-titanium-barrel"].additional_categories = {}
 end
