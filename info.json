@@ -4,10 +4,10 @@
     "title": "Barreling Machines",
     "author": "Talandar",
     "dependencies": [
-        "base >= 2.0",
+        "base >= 2.1",
         "? diesel_machines",
         "! pelagos-autobarreling"
     ],
     "description": "Adds barreling machines with different stats and power sources",
-    "factorio_version": "2.0"
+    "factorio_version": "2.1"
 }
